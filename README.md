@@ -33,6 +33,7 @@ The dataset was structured and converted into a tabular format, followed by the 
 ### Annual Sales Analysis
 
 Sales data was aggregated at the yearly level using PivotTables to evaluate overall business growth.
+<img width="918" height="515" alt="image" src="https://github.com/user-attachments/assets/2d8a3a79-6b0c-49bb-b7af-12095e3e5303" />
 
 **Insight:**  
 Sales show a consistent upward trend from 2018 to 2021, indicating steady growth and improved performance over time.
@@ -42,6 +43,7 @@ Sales show a consistent upward trend from 2018 to 2021, indicating steady growth
 ### Quarterly Sales Analysis
 
 Sales data was grouped by quarters to identify seasonal performance patterns.
+<img width="906" height="524" alt="image" src="https://github.com/user-attachments/assets/b7092216-b7a2-41c8-9766-9f088eb12642" />
 
 **Insight:**  
 Sales peak in Quarter 4 and are lowest in Quarter 2, suggesting stronger performance toward the end of the year and possible seasonal demand effects.
@@ -51,6 +53,7 @@ Sales peak in Quarter 4 and are lowest in Quarter 2, suggesting stronger perform
 ### Monthly Sales Analysis
 
 A detailed monthly breakdown was created to identify short-term variations in sales.
+<img width="908" height="527" alt="image" src="https://github.com/user-attachments/assets/60013b6e-e760-43e5-9738-8db4ac797d8d" />
 
 **Insight:**  
 Sales vary across months, with the highest performance observed in October and lower values in months such as January and May. This highlights the presence of peak and low demand periods within the year.
@@ -61,7 +64,7 @@ This analysis demonstrates how raw sales data can be transformed into structured
 
 ## Files Included
 
-`Week 5 - Smartphone.xlsx`
+Smartphone.xlsx`
 
 ## Conclusion
 
