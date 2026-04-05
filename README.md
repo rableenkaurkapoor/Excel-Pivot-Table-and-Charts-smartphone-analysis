@@ -6,14 +6,14 @@ In this project, I analyzed smartphone sales data using Excel by applying PivotT
 
 ## Key Skills Demonstrated
 
-Data Analysis  
-Data Aggregation and Summarization  
-Time Series Analysis  
-Trend Identification  
-PivotTable Design and Optimization  
-PivotChart Visualization  
-Business Insight Generation  
-Data Interpretation and Reporting  
+- Data Analysis  
+- Data Aggregation and Summarization  
+- Time Series Analysis  
+- Trend Identification  
+- PivotTable Design and Optimization  
+- PivotChart Visualization  
+- Business Insight Generation  
+- Data Interpretation and Reporting   
 
 ## Tools and Techniques
 
