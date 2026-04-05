@@ -17,12 +17,12 @@ In this project, I analyzed smartphone sales data using Excel by applying PivotT
 
 ## Tools and Techniques
 
-Microsoft Excel  
-PivotTables  
-PivotCharts  
-Line Charts  
-Date Grouping (Year, Quarter, Month)  
-Data Structuring and Transformation  
+- Microsoft Excel  
+- PivotTables  
+- PivotCharts  
+- Line Charts  
+- Date Grouping (Year, Quarter, Month)  
+- Data Structuring and Transformation  
 
 ## Analysis Approach
 
